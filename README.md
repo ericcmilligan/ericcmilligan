@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ericcmilligan
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning javascript, git, css and html along with python (:
-- 💞️ I’m looking to collaborate on beginner projects
 - 📫 How to reach me @ericmilligan on instagram
 
 <!---
