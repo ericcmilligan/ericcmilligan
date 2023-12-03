@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @ericcmilligan
-- 👀 I’m interested in learning
+- 👋 Hi, I’m @ericcmilligan, a third year applied software engineering student based in cardiff.
 - 🌱 I’m currently learning MERN Stack and applying knowledge learned for a climate data project. 
 - 📫 How to reach me @ericmilligan on instagram
 
