@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ericcmilligan
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning javascript, git, css and html along with python (:
+- 🌱 I’m currently learning MERN Stack and applying knowledge learned for a climate data project. 
 - 📫 How to reach me @ericmilligan on instagram
 
 <!---
